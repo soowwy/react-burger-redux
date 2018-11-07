@@ -12,6 +12,11 @@
     box-sizing: border-box;
     display: block;
 }
+.NavigationItem .active {
+    background-color: #8f5c2c;
+    border-bottom: 4px solid #40a4c8;
+    color: white;
+}
 
 .NavigationItem a:hover,
 .NavigationItem a:active,
